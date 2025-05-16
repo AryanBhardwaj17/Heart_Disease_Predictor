@@ -20,12 +20,19 @@ This is a Streamlit web application that predicts the likelihood of heart diseas
 
 heart-disease-predictor/
 │
-├── app.py # Streamlit app
-├── heart_disease_model.pkl # Trained ML model (binary file)
-├── heart_disease_model_training.ipynb # Model training notebook
-├── sample_input.csv # Example input data
-├── requirements.txt # List of Python dependencies
-└── README.md # Project documentation
+
+├── app.py
+
+├── heart_disease_model.pkl
+
+├── heart_disease_model_training.ipynb
+
+├── sample_input.csv
+
+├── requirements.txt
+
+└── README.md
+
 
 ---
 
@@ -80,11 +87,5 @@ This project is for educational purposes only and not intended for medical diagn
 Aryan Bhardwaj
 📧 [aryanbhardwaj4789@gmail.com]
 🔗 https://github.com/AryanBhardwaj17
-
-
-
-
-
-
 
 
