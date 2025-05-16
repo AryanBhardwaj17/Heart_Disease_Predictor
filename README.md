@@ -1,8 +1,3 @@
-# Heart_Disease_Predictor
-✅ README.md
-markdown
-Copy
-Edit
 # 🫀 Heart Disease Predictor
 
 This is a Streamlit web application that predicts the likelihood of heart disease based on key medical indicators. It uses a machine learning model trained on real patient data.
@@ -32,10 +27,6 @@ heart-disease-predictor/
 ├── requirements.txt # List of Python dependencies
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 📊 Input Features
@@ -62,16 +53,13 @@ Edit
 ```bash
 git clone https://github.com/AryanBhardwaj17/heart-disease-predictor.git
 cd heart-disease-predictor
+
 2. Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3. Run the app
-bash
-Copy
-Edit
 streamlit run app.py
+
 📌 Example Input
 You can use the provided sample_input.csv file to test batch predictions or review input format.
 
@@ -80,13 +68,9 @@ The model was trained using a dataset of anonymized patient records. The full tr
 
 🛠 Built With
 Python
-
 Scikit-learn
-
 Pandas, NumPy
-
 Streamlit
-
 Plotly
 
 🧠 Disclaimer
@@ -94,16 +78,9 @@ This project is for educational purposes only and not intended for medical diagn
 
 📬 Contact
 Aryan Bhardwaj
-📧 [YourEmail@example.com]
-🔗 [LinkedIn or GitHub link here]
+📧 [aryanbhardwaj4789@gmail.com]
+🔗 https://github.com/AryanBhardwaj17
 
-yaml
-Copy
-Edit
-
----
-
-Would you like this file pushed to your GitHub repository as well?
 
 
 
