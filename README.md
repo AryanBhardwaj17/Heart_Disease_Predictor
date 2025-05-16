@@ -19,19 +19,26 @@ This is a Streamlit web application that predicts the likelihood of heart diseas
 ## 📁 Project Structure
 
 heart-disease-predictor/
-│
+├── app.py                     # Streamlit web app
 
-├── app.py
+├── heart_disease_model_training.ipynb  # Jupyter Notebook for training
 
-├── heart_disease_model.pkl
+├── requirements.txt           # Python dependencies
 
-├── heart_disease_model_training.ipynb
+├── sample_input.csv.csv       # Sample input (should rename to sample_input.csv)
 
-├── sample_input.csv
+├── PredictedHeartLR.csv       # Sample prediction output (optional)
 
-├── requirements.txt
+├── SVM.pkl                    # SVM model
 
-└── README.md
+├── RFC.pkl                    # Random Forest model
+
+├── DTC.pkl                    # Decision Tree model
+
+├── LogisticR.pkl              # Logistic Regression model
+
+└── README.md                  # Project documentation
+
 
 
 ---
